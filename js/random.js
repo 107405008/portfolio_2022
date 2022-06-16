@@ -4,6 +4,7 @@ for (let x = 0; x < 11; x++){
     var ranNum =Math.floor(Math.random() * 11 ) ;
 }
 var i = ranNum
+console.log(ranNum)
 
 url[i] = "./" + i + ".html";
 
