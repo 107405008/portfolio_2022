@@ -8,4 +8,4 @@ var i = ranNum
 url[i] = "./" + i + ".html";
 
 str = "<a id='linkID' href='" + url[i] + "'>";
-document.write(str + "點我看一篇</a><br>");
+document.write(str + "點我看隨機</a><br>");
