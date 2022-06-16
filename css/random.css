@@ -1,0 +1,26 @@
+.random {
+    background-color: #ffffff11;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a {
+    font-weight: 700;
+    background: transparent;
+}
+a:link {
+    text-decoration: none;
+    color: #000000;
+
+}
+a:visited {
+    color: #000000;
+
+}
+a:hover {
+    color: #000000aa;
+    transition: all 200ms ease-in-out;
+}
+a:active {
+    color: #000000aa;
+}

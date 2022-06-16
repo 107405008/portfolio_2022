@@ -1,0 +1,69 @@
+* {
+    box-sizing:border-box;
+    font-family: 'Noto Serif TC', serif;
+    
+}
+
+body {
+    display: flex;
+    transition: all 500ms ease-in-out;
+    background-color: #f1f1f1;
+    overflow-x: hidden;
+    
+}
+
+
+h1 {
+    width: 100%;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 60px;
+}
+p {
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 30px 0;
+}
+
+.bg {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}
+.bgdiv {
+    position:fixed ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.content {
+    width: 100vw;
+    padding: 6% 12%;
+    position:absolute;
+    background: transparent;    
+    width: 100%;
+
+}
+.content p {
+    width: 100%;
+    background: transparent;
+    white-space: wrap;
+}
+
+.w {
+    background-color: #f1f1f188;
+}
+
+.bk {
+    color: #f1f1f188;
+    background-color: #000000EF;
+}
+
