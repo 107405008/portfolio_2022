@@ -1,7 +1,7 @@
 url = new Array();
 
-for (let x = 0; x < 10; x++){
-    var ranNum =Math.floor(Math.random() * 10 ) ;
+for (let x = 0; x < 11; x++){
+    var ranNum =Math.floor(Math.random() * 11 ) ;
 }
 var i = ranNum
 
