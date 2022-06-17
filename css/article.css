@@ -75,5 +75,6 @@ span {
     height: 100%;
     color: #f1f1f188;
     background-color: #000000EF;
+    background-blend-mode: screen;
 }
 
