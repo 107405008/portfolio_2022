@@ -66,10 +66,12 @@ span {
 
 .w {
     min-height: 100vh;
+    height: 100%;
     background-color: #f1f1f188;
 }
 
 .bk {
+    height: 100%;
     color: #f1f1f188;
     background-color: #000000EF;
 }
