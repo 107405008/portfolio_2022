@@ -65,12 +65,12 @@ span {
 }
 
 .w {
-    height: 100vh;
+    min-height: 100vh;
     background-color: #f1f1f188;
 }
 
 .bk {
-    height: 100vh;
+    min-height: 100vh;
     color: #f1f1f188;
     background-color: #000000EF;
 }
