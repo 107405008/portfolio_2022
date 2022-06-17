@@ -45,6 +45,8 @@ span {
 
 }
 .bgdiv {
+    width: 100vw;
+    height: 100vh;
     position:fixed ;
     display: flex;
     align-items: center;
