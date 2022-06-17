@@ -39,14 +39,11 @@ span {
     width: 100vw;
     height: 100vh;
     object-fit: cover;
-    position: absolute;
     top: 50%;
     left: 50%;
 
 }
 .bgdiv {
-    width: 100vw;
-    height: 100vh;
     position:fixed ;
     display: flex;
     align-items: center;
