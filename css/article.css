@@ -68,13 +68,13 @@ span {
 .w {
     min-height: 100vh;
     background-color: #f1f1f188;
-    background-blend-mode: screen;
+
 }
 
 .bk {
     min-height: 100vh;
     color: #f1f1f188;
     background-color: #000000EF;
-    background-blend-mode: screen;
+
 }
 
