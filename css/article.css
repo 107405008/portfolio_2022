@@ -27,6 +27,13 @@ p {
     margin: 30px 0;
 }
 
+span {
+    width: 100%;
+    font-size: 12px;
+    font-weight: 200;
+    line-height: 18px;
+}
+
 .bg {
     width: 100vw;
     height: 100vh;
